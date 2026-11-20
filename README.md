@@ -4,7 +4,7 @@ Vencord向けの、ボイスチャンネルのローカルミュート管理プ�
 
 Discordで参加しているボイスチャンネルのメンバーを複数選択し、ローカルミュート・ミュート解除を一括で行うことができます。
 
-| ![Demo of plugin](assets/localMuteManager-tab.png) |
+![Demo of plugin](assets/localMuteManager-tab.png)
 
 ## 機能
 
@@ -97,12 +97,13 @@ Discordのユーザー設定からVencordのプラグイン一覧を開き、`Lo
 
 ### 1. LocalMuteManagerを開く
 
-| ![LocalMuteManager button](assets/localMuteManager-button.png) |
+![LocalMuteManager button](assets/localMuteManager-button.png)
 画像のように、テキスト入力バーに追加される人型アイコンをクリックします。
 
 ### 2. ミュートしたいユーザーを選択する
 
-| ![LocalMuteManager tab](assets/localMuteManager-tab.png) |
+![LocalMuteManager tab](assets/localMuteManager-tab.png)
+
 画像のような管理画面が開きます。
 
 参加者一覧から対象のユーザーを選択してください。複数人を同時に選択できます。
@@ -113,7 +114,8 @@ Discordのユーザー設定からVencordのプラグイン一覧を開き、`Lo
 
 ### 4. ミュート状態を確認する
 
-| ![LocalMuteManager mute](assets/localMuteManager-mute.png) |
+![LocalMuteManager mute](assets/localMuteManager-mute.png)
+
 画像のように、Discordのボイスチャンネル参加者一覧で、対象ユーザーの名前の横に「ミュート中」と表示されます。
 
 ### 5. ローカルミュートを解除する
